@@ -15,7 +15,7 @@ This repository serves as a collection of practical examples, exercises, and pro
 
 The repository covers various topics discussed in *Effective Kotlin*, including but not limited to:
 
-- **Ch.1(Safty)**
+- **Ch.1(Safety)**
 - **ch.2(Readability)**
 - **ch.3(Reausability)**
 - **ch.4(Abstraction design)**
