@@ -1,4 +1,13 @@
-
+/**
+ * Rules of this lesson
+ * require block - a universal way to specify expectations
+    on arguments.
+• check block - a universal way to specify expectations on
+    the state.
+• assert block - a universal way to test in testing mode
+    if something is true.
+• Elvis operator with return or throw
+ */
 //Expectation on arguments
 fun factorial(num:Int):Int{
     /**
@@ -21,7 +30,6 @@ class User{
     var isLoggedIn:Boolean=false
     fun login(email:String,password:String){
         //------some code here
-
         /**
          * As (check) put expectation about local states
          * It may be at last of the fun
